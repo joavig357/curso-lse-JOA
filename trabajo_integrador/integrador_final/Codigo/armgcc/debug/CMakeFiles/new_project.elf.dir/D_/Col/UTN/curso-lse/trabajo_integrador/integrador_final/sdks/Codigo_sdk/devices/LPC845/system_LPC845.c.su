@@ -1,0 +1,3 @@
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/system_LPC845.c:74:6:SystemInit	8	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/system_LPC845.c:91:6:SystemCoreClockUpdate	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/system_LPC845.c:179:29:SystemInitHook	8	static

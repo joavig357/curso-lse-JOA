@@ -1,0 +1,262 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.30.0/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/tools/cmake_toolchain_files/armgcc.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/tools/cmake_toolchain_files/mcux_config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.30.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.30.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.30.0/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/sanfr/.mcuxpressotools/cmake-3.30.0-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"path" : "flags.cmake"
+		},
+		{
+			"path" : "config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/all_lib_device.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/CMSIS/Core/Include/CMSIS_Include_core_cm.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/components/uart/component_miniusart_adapter.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/device_CMSIS.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/device_startup.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/device_system.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_clock.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_common.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_inputmux.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_inputmux_connections.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_lpc_adc.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_lpc_gpio.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_lpc_i2c.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_lpc_iocon_lite.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_lpc_miniusart.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_power.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_reset.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_sctimer.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_swm.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_swm_connections.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_syscon.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/driver_syscon_connections.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/utilities/utilities_misc_utilities.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/utilities/debug_console_lite/utility_assert_lite.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/utilities/utility_debug_console_lite.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/utilities/utility_str.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/freertos/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/Codigo/armgcc/debug",
+		"source" : "D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/Codigo/armgcc"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

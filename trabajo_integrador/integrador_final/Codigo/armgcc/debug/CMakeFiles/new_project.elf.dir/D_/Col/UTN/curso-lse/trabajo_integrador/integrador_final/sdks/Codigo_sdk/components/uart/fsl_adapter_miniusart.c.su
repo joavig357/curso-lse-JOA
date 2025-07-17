@@ -1,0 +1,7 @@
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/components/uart/fsl_adapter_miniusart.c:115:26:HAL_UartGetStatus	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/components/uart/fsl_adapter_miniusart.c:214:19:HAL_UartInit	48	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/components/uart/fsl_adapter_miniusart.c:280:19:HAL_UartDeinit	24	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/components/uart/fsl_adapter_miniusart.c:301:19:HAL_UartReceiveBlocking	32	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/components/uart/fsl_adapter_miniusart.c:323:19:HAL_UartSendBlocking	32	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/components/uart/fsl_adapter_miniusart.c:344:19:HAL_UartEnterLowpower	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/components/uart/fsl_adapter_miniusart.c:351:19:HAL_UartExitLowpower	16	static

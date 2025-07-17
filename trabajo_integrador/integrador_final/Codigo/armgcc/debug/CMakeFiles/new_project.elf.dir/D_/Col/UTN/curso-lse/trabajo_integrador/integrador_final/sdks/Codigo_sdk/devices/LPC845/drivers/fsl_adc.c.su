@@ -1,0 +1,13 @@
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_clock.h:558:20:CLOCK_EnableClock	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_clock.h:569:20:CLOCK_DisableClock	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_reset.h:199:20:RESET_ReleasePeripheralReset	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:34:17:ADC_GetInstance	24	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:58:6:ADC_Init	24	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:166:6:ADC_GetDefaultConfig	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:202:6:ADC_Deinit	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:366:6:ADC_DoSelfCalibration	32	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:408:6:ADC_SetConvSeqAConfig	24	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:462:6:ADC_SetConvSeqBConfig	24	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:518:6:ADC_GetConvSeqAGlobalConversionResult	24	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:550:6:ADC_GetConvSeqBGlobalConversionResult	24	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_adc.c:583:6:ADC_GetChannelConversionResult	32	static

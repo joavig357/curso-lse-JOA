@@ -1,0 +1,2 @@
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_common_arm.c:180:13:DelayLoop	16	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/sdks/Codigo_sdk/devices/LPC845/drivers/fsl_common_arm.c:210:6:SDK_DelayAtLeastUs	40	static

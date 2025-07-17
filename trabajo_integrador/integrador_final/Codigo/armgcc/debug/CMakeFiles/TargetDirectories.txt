@@ -1,0 +1,6 @@
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/Codigo/armgcc/debug/CMakeFiles/new_project.elf.dir
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/Codigo/armgcc/debug/CMakeFiles/edit_cache.dir
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/Codigo/armgcc/debug/CMakeFiles/rebuild_cache.dir
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/Codigo/armgcc/debug/freertos/CMakeFiles/freertos.dir
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/Codigo/armgcc/debug/freertos/CMakeFiles/edit_cache.dir
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/Codigo/armgcc/debug/freertos/CMakeFiles/rebuild_cache.dir

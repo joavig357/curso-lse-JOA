@@ -1,0 +1,15 @@
+{
+  "version": "25.3",
+  "toolchainPath": "C:/Users/sanfr/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "version": "25.06.00",
+    "path": "d:\\Col\\UTN\\curso-lse\\trabajo_integrador\\integrador_final\\sdks\\Codigo_sdk",
+    "boardId": "lpc845breakout",
+    "deviceId": "LPC845",
+    "coreId": "core0_LPC845"
+  }
+}

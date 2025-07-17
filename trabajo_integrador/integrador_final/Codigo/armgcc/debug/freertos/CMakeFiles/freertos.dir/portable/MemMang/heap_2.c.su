@@ -1,0 +1,6 @@
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/freertos/portable/MemMang/heap_2.c:153:8:pvPortMalloc	48	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/freertos/portable/MemMang/heap_2.c:261:6:vPortFree	32	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/freertos/portable/MemMang/heap_2.c:306:8:xPortGetFreeHeapSize	8	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/freertos/portable/MemMang/heap_2.c:312:6:vPortInitialiseBlocks	8	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/freertos/portable/MemMang/heap_2.c:318:8:pvPortCalloc	24	static
+D:/Col/UTN/curso-lse/trabajo_integrador/integrador_final/freertos/portable/MemMang/heap_2.c:337:13:prvHeapInit	16	static
